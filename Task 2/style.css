@@ -1,0 +1,9 @@
+body {background-color:wheat;}
+h1 {text-align: center; color:black;}
+.Header {font-size: larger; color:black; text-align: center;}
+.email {text-align: center; color: rgb(122, 101, 101);}
+td {text-align: center;}
+.content {text-align:center;}
+.date {text-align: right;}
+text-decoration: none;
+ form {text-align: center;}
