@@ -1,0 +1,138 @@
+/*start header*/
+body{
+   height: 4000px;
+   
+}
+
+.container{
+    width: 1170px;
+    margin: auto;
+   
+}
+.header .navbar{
+  
+    color: white;
+    overflow:hidden;
+    text-transform: uppercase;
+    height: 1000px;
+    background-color: gray;
+}
+.header .navbar h1{
+    float: left;
+    
+}
+.header .navbar ul{
+    list-style: none;
+    padding: left 0; 
+    overflow: hidden;
+    float: right;
+   
+}
+.header .navbar ul li{
+    float: left;
+    padding: 10px;
+   
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: tomato;
+}
+/*end header*/
+
+
+/* Sart slider */
+
+.container{
+    width: 1170px;
+    margin: auto;
+    height: 400px;
+}
+.slider{
+    background-color: #F4623A;
+    
+}
+.slider .container{
+    
+}
+.slider .container .h1{
+    float: left;
+      
+}
+.slider p{
+    padding: left 0; 
+    overflow: hidden;
+    float: right;
+}
+
+.slider .container hr{
+    margin: 0 auto ;
+    width: 20%;
+    border: 1px solid #D0291D 
+}
+button{
+    padding: 12px;
+    background-color:gray;
+    color: white;
+    border: none;
+    border-radius: 10px;      
+}
+
+button:hover{
+    background-color: black;
+    color: burlywood;
+}
+/* end slider */
+
+/* start features */
+
+.features{
+   overflow: hidden;
+   background-color:white;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+.features .feat{
+    float: left;
+    width: 44.4444%;
+    height: 400px;
+}
+
+
+/* end features */
+
+/* start photo */
+.image1{
+   float: left;
+    margin-left: 100px;
+}
+.image2{
+    float: left;
+    
+}
+.image3{
+   float: left;
+}
+.image4{
+   float: left;
+   margin-left: 100px;
+  
+}
+.image5{
+  float: left;
+}
+.image6{
+  float: left;
+}
+
+/* end photo */
+
+/* start section */
+
+
+/* end section */
+
+
+
